@@ -1,13 +1,13 @@
 [![Prashanth's GitHub Banner](./assets/github-header-banner.png)]()
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/prashanth-sp/)
-[![LeetCode Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://leetcode.com/u/prashanth-s/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/prashanth-s/)
 
 Hi there 👋
 
 I’m Prashanth — a Software Engineer exploring the intersection of AI, systems design, and clean, impactful engineering.
 
-## 📝 Latest Blog Posts
+<!--## 📝 Latest Blog Posts-->
 
 <br>
 
@@ -16,7 +16,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 <!-- BLOG-POST-LIST:END -->
 
 <br>
-
+<!--
 ## 📌 Pinned Repositories
 
 <br>
@@ -55,7 +55,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 <a href="https://github.com/braydoncoyer">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
-
+-->
 <br>
 <br>
 
@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Let's just say, I know a guy who knows a guy, who knows another guy
+> I will put you under the jail.
 >
-> <p>- Saul Goodman</p>
+> <p>- Hank Schrader</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
