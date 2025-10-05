@@ -7,7 +7,7 @@ Hi there 👋
 
 I’m Prashanth — a Software Engineer exploring the intersection of AI, systems design, and clean, impactful engineering.
 
-## 📝 Latest Blog Posts
+<!--## 📝 Latest Blog Posts-->
 
 <br>
 
