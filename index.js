@@ -12,10 +12,10 @@ async function main() {
   ).json();
 
   const readme = readmeTemplate
-    .replace("{bb_quote}", bb_quote.quote)
+    .replace("{bb_quote}", bb_quote[0].quote)
     .replace(
       "{bb_character}",
-      `- ${bb_quote.author}`
+      `- ${bb_quote[0].author}`
     );
 
   await fs.writeFile("README.md", readme);
