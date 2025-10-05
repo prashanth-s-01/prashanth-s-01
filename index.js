@@ -10,14 +10,14 @@ async function main() {
 main();
 
 const bb_quote = await (
-  await fetch("https://officeapi.dev/api/quotes/random")
+  await fetch("https://api.breakingbadquotes.xyz/v1/quotes")
 ).json();
 
 const readme = readmeTemplate
-  .replace("{bb_quote}", bb_quote.data.content)
+  .replace("{bb_quote}", bb_quote.quote)
   .replace(
     "{bb_character}",
-    `- ${bb_quote.data.character.firstname} ${bb_quote.data.character.lastname}`
+    `- ${bb_quote.author}`
   );
 
 await fs.writeFile("README.md", readme);
