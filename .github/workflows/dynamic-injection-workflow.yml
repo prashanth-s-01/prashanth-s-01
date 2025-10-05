@@ -30,7 +30,7 @@ jobs:
           git add .
           git config --global user.name "Prashanth"
           git config --global user.email "prashanth.sabesan@gmail.com"
-          git commit -m "[Automated] README updated with new Office quote!"
+          git commit -m "[Automated] README updated with new Breaking Bad quote!"
       - name: Push
         uses: ad-m/github-push-action@master
         with:
