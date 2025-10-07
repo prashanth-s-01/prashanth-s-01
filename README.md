@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I told you, Skyler, I warned you for a solid year: you cross me, and there will be consequences.
+> Do you know how much I make a year? I mean, even if I told you, you wouldn't believe it.
 >
 > <p>- Walter White</p>
 
