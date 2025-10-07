@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Everyone sounds like Meryl Streep with a gun to their head.
+> I’m not saying it’s not bad. It’s bad. But it could be worse.
 >
-> <p>- Mike Ehrmantraut</p>
+> <p>- Saul Goodman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
