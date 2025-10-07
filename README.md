@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Do you know how much I make a year? I mean, even if I told you, you wouldn't believe it.
+> There is gold in the streets just waiting for someone to come and scoop it up.
 >
 > <p>- Walter White</p>
 
