@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Ignorance of the law doesn't equate to criminality. It equates to ignorance.
+> Sometimes it just feels better not to talk. At All. About Anything. To Anyone.
 >
-> <p>- Skyler White</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
