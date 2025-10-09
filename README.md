@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Let's see, how should i put this? I'm in, you're out.
+> Smoking marijuana, eating cheetos, and masturbating do not constitute plans in my book.
 >
 > <p>- Walter White</p>
 
