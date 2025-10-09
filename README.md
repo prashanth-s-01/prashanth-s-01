@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I am not in danger, Skyler. I AM the danger!
+> All bad things must come to an end.
 >
 > <p>- Walter White</p>
 
