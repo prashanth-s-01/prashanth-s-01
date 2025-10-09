@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Find what you love and let it kill you.
+> I am not in danger, Skyler. I AM the danger!
 >
 > <p>- Walter White</p>
 
