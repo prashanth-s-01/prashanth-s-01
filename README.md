@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Is that your fly-sabre?
+> You don't want a criminal lawyer. You want a criminal lawyer.
 >
 > <p>- Jesse Pinkman</p>
 
