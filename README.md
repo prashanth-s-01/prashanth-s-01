@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You don't want a criminal lawyer. You want a criminal lawyer.
+> We're all on the same page. The one that says, if I can't kill you, you'll sure as shit wish you were dead.
 >
 > <p>- Jesse Pinkman</p>
 
