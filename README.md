@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Smoking marijuana, eating cheetos, and masturbating do not constitute plans in my book.
+> I'm not in the meth business. I'm in the empire business.
 >
 > <p>- Walter White</p>
 
