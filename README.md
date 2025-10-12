@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Conscience gets expensive, doesn't it?
+> Some people are immune to good advice.
 >
 > <p>- Saul Goodman</p>
 
