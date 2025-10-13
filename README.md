@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You won, Walter. You got the job. Do yourself a favor and learn to take yes for an answer.
+> Being the best at something is a very rare thing. You don't just toss something like that away. And what, you wanna squander that potential?
 >
-> <p>- Mike Ehrmantraut</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
