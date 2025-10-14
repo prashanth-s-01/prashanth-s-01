@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Free to cook anytime, anywhere.
+> Say the words! Say YOU want this! Nothing happens until I hear you say it.
 >
 > <p>- Jesse Pinkman</p>
 
