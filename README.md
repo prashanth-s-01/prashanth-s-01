@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> This is my own private domicile and I will not be harassed... bitch!
+> Let's just say, I know a guy who knows a guy, who knows another guy
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Saul Goodman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
