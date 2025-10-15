@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> If you believe that there’s a hell, we’re pretty much already going there.
+> The Universe is Random. Not Inevitable. It's simple Chaos.
 >
 > <p>- Walter White</p>
 
