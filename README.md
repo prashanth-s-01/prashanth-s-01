@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You don't want a criminal lawyer. You want a criminal lawyer.
+> Sometimes the forbidden fruit tastes the sweetest.
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Hank Schrader</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
