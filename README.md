@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> May his death satisfy you.
+> I investigate everyone with whom I do business. What careful man wouldn't?
 >
 > <p>- Gustavo Fring</p>
 
