@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Jesus! Just grow some fucking balls!
+> F*ck you! And your eyebrows!
 >
 > <p>- Walter White</p>
 
