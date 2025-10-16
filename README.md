@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Send him to Belize? I'll send YOU to Belize.
+> Walter Jr., you're my big man. There are going to be some things that you'll come to learn about me in the next few days. But just know that no matter how it may look, I only had you in my heart. Goodbye!
 >
 > <p>- Walter White</p>
 
