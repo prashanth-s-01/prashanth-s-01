@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> So you're chasing around a fly and in your world, I'm the idiot?
+> Muscle memory. Happens all the time. Years of training, your body acted faster than your brain
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Marie Schrader</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
