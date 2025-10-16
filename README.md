@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Walter Jr., you're my big man. There are going to be some things that you'll come to learn about me in the next few days. But just know that no matter how it may look, I only had you in my heart. Goodbye!
+> I did it for the chemistry.
 >
-> <p>- Walter White</p>
+> <p>- Gale Boetticher</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
