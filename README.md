@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Fifty years I spent like that. Finding myself awake at three in the morning. But you know what? Ever since my diagnosis, I sleep just fine.
+> It can be done exactly how I want it. The only question is: Are you the man to do it? Figure it out. That's what I'm paying you for.
 >
 > <p>- Walter White</p>
 
