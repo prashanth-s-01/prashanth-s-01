@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Never give up control. Live life on your own terms.
+> I could have saved her.
 >
 > <p>- Walter White</p>
 
