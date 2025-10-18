@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I watched Jane die. I was there. And I watched her die.
+> Never give up control. Live life on your own terms.
 >
 > <p>- Walter White</p>
 
