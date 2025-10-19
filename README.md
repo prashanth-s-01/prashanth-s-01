@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I’m not saying it’s not bad. It’s bad. But it could be worse.
+> Yo, yo yo, 148-3 to the 3 to the 6 to the 9, representing the ABQ, what up biatch? Leave it at the tone.
 >
-> <p>- Saul Goodman</p>
+> <p>- Jesse Pinkman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
