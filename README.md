@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Speak into the mic, bitch.
+> Get busy living or get busy dying.
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Stephen King</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
