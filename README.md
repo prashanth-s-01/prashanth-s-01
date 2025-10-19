@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Some people are immune to good advice.
+> I’m not saying it’s not bad. It’s bad. But it could be worse.
 >
 > <p>- Saul Goodman</p>
 
