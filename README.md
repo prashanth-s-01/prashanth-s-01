@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Alright, I've got the talking pillow now... Okay?
+> I did it for me. I liked it. I was good at it. And... I was really... I was alive.
 >
 > <p>- Walter White</p>
 
