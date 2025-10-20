@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> We're done when I say we're done.
+> Jesse, you asked me if I was in the meth business or the money business.. Neither. I'm in the empire business.
 >
 > <p>- Walter White</p>
 
