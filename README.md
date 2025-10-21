@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You’re early lucky, you know that? You didn’t have to wait your whole life to do something special.
+> The whole minimalist thing never blew my hair back, but hey.
 >
-> <p>- Walter White</p>
+> <p>- Saul Goodman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
