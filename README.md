@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Speak into the mic, bitch.
+> You have a good rest of your life, kid.
 >
 > <p>- Jesse Pinkman</p>
 
