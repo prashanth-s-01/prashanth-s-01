@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Gatorade me, bitch!
+> You're my free pass... bitch!
 >
 > <p>- Jesse Pinkman</p>
 
