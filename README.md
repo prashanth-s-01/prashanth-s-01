@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Someone has to protect this family from the man who protects this family.
+> I'm not in the meth business. I'm in the empire business.
 >
-> <p>- Skyler White</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
