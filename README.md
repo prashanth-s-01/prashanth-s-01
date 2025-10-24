@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I told you, Skyler, I warned you for a solid year: you cross me, and there will be consequences.
+> I am not in danger, Skyler. I AM the danger!
 >
 > <p>- Walter White</p>
 
