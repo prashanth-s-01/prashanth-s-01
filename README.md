@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> There is gold in the streets just waiting for someone to come and scoop it up.
+> Well, technically, chemistry is the study of matter. But I prefer to see it as the study of change.
 >
 > <p>- Walter White</p>
 
