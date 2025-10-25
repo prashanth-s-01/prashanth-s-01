@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You need to stop focusing on the darkness behind you. The past is the past. Nothing can change what we’ve done.
+> Did I say you could open your mouth? And, hands off the car!
 >
-> <p>- Walter White</p>
+> <p>- Hank Schrader</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
