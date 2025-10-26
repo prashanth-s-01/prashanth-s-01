@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You’re early lucky, you know that? You didn’t have to wait your whole life to do something special.
+> I am speaking to my family now. Skyler, you are the love of my life. I hope you know that.
 >
 > <p>- Walter White</p>
 
