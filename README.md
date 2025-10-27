@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> My name is ASAC Schrader, and you can go f*ck yourself.
+> Chick's got an ass like an onion, makes me wanna cry.
 >
 > <p>- Hank Schrader</p>
 
