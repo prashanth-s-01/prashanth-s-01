@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You are a time bomb, tick-tick-ticking. And I have no intention of being around for the boom.
+> You know I, I just think, that ah, things have a way of working themselves out.
 >
-> <p>- Mike Ehrmantraut</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
