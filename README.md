@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Alright, tell you what. Both of you pull it out your butts right now, or I go grab a flashlight and some pliers and go exploring.
+> I have spent my whole life scared frightened of things that could happen, might happen, might not happen.
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
