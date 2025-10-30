@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> The whole minimalist thing never blew my hair back, but hey.
+> Scientists love lasers.
 >
 > <p>- Saul Goodman</p>
 
