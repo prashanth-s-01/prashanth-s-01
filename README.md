@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Moral of the story is: I chose a half measure when I should have gone all the way. I'll never make that mistake again. No more half measures, Walter.
+> I will kill your wife, I will kill your son, I will kill your infant daughter.
 >
-> <p>- Mike Ehrmantraut</p>
+> <p>- Gustavo Fring</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
