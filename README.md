@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I am not in danger, Skyler. I AM the danger!
+> Jesse, we need to cook!
 >
 > <p>- Walter White</p>
 
