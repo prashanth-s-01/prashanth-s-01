@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> F*ck you! And your eyebrows!
+> Smoking marijuana, eating cheetos, and masturbating do not constitute plans in my book.
 >
 > <p>- Walter White</p>
 
