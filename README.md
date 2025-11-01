@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Never give up control. Live life on your own terms.
+> Smoking marijuana, eating cheetos, and masturbating do not constitute plans in my book.
 >
 > <p>- Walter White</p>
 
