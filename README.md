@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Just because you shot Jesse James doesn't mean you are Jesse James.
+> The one that says if I can't kill you, you'll sure as *beep* wish you were dead.
 >
-> <p>- Mike Ehrmantraut</p>
+> <p>- Jesse Pinkman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
