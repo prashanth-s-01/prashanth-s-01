@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You know how they say it's been a pleasure'? Well... it hasn't.
+> Just because you shot Jesse James doesn't mean you are Jesse James.
 >
 > <p>- Mike Ehrmantraut</p>
 
