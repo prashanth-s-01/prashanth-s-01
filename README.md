@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Heart wants what the heart wants, right?
+> My friends, I promise you that together, we will prosper.
 >
-> <p>- Uncle Jack</p>
+> <p>- Gustavo Fring</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
