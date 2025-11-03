@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You know I, I just think, that ah, things have a way of working themselves out.
+> Do you know how much I make a year? I mean, even if I told you, you wouldn't believe it.
 >
 > <p>- Walter White</p>
 
