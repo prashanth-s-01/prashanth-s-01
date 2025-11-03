@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I could have saved her.
+> My name is Skyler White yo. My husband is Walter White... yo.
 >
-> <p>- Walter White</p>
+> <p>- Skyler White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
