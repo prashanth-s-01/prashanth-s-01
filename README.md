@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> My name is Skyler White yo. My husband is Walter White... yo.
+> You add plus a douchebag to a minus douchebag and you get, Like, Zero Douchebags.
 >
-> <p>- Skyler White</p>
+> <p>- Jesse Pinkman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
