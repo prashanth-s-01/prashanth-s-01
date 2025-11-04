@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Let's just say, I know a guy who knows a guy, who knows another guy
+> Heart wants what the heart wants, right?
 >
-> <p>- Saul Goodman</p>
+> <p>- Uncle Jack</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
