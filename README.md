@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> My name is ASAC Schrader, and you can go f*ck yourself.
+> I will kill your wife, I will kill your son, I will kill your infant daughter.
 >
-> <p>- Hank Schrader</p>
+> <p>- Gustavo Fring</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
