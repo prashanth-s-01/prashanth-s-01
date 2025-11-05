@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Better call Saul!
+> You can never trust a drug addict.
 >
-> <p>- Saul Goodman</p>
+> <p>- Gustavo Fring</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
