@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I have lived under the threat of death for a year now, and because of that, I've made peace with it.
+> I'm not a criminal. I'm a criminal lawyer.
 >
-> <p>- Walter White</p>
+> <p>- Saul Goodman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
