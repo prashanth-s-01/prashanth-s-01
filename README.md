@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You can never trust a drug addict.
+> I want my kids back. I want my life back. Please tell me – How much is enough? How big does this pile have to be?
 >
-> <p>- Gustavo Fring</p>
+> <p>- Skyler White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
