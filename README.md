@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Then why don't you just fucking die, already?
+> So you do have a plan? Yeah, Mr. White! Yeah, science!
 >
-> <p>- Walter White Jr</p>
+> <p>- Jesse Pinkman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
