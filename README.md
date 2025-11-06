@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You need to stop focusing on the darkness behind you. The past is the past. Nothing can change what we’ve done.
+> Jesse, you asked me if I was in the meth business or the money business.. Neither. I'm in the empire business.
 >
 > <p>- Walter White</p>
 
