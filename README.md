@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Conscience gets expensive, doesn't it?
+> I have lived under the threat of death for a year now, and because of that, I've made peace with it.
 >
-> <p>- Saul Goodman</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
