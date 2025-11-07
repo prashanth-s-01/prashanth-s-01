@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> If I ever get anal polyps, I'll know what to name them.
+> Cooking is art. And the shit I cook is the bomb.
 >
-> <p>- Saul Goodman</p>
+> <p>- Jesse Pinkman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
