@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Everyone sounds like Meryl Streep with a gun to their head.
+> Shut the f*ck up and let me die in peace.
 >
 > <p>- Mike Ehrmantraut</p>
 
