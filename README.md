@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I'm not in the meth business. I'm in the empire business.
+> Let's see, how should i put this? I'm in, you're out.
 >
 > <p>- Walter White</p>
 
