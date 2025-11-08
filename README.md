@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Look, I saved your life, Jesse. Are you gonna save mine?
+> "Cap'n Cook?" That's not you? Like I said, no one is looking for you.
 >
 > <p>- Walter White</p>
 
