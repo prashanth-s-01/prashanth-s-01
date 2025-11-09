@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> All bad things must come to an end.
+> Jesus! Just grow some fucking balls!
 >
 > <p>- Walter White</p>
 
