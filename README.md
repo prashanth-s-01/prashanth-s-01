@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> The whole minimalist thing never blew my hair back, but hey.
+> Being the best at something is a very rare thing. You don't just toss something like that away. And what, you wanna squander that potential?
 >
-> <p>- Saul Goodman</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
