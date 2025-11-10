@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> If I ever get anal polyps, I'll know what to name them.
+> "Cap'n Cook?" That's not you? Like I said, no one is looking for you.
 >
-> <p>- Saul Goodman</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
