@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Scientists love lasers.
+> I did it for the chemistry.
 >
-> <p>- Saul Goodman</p>
+> <p>- Gale Boetticher</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
