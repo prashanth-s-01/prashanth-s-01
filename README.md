@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Never give up control. Live life on your own terms.
+> You are a time bomb, tick-tick-ticking. And I have no intention of being around for the boom.
 >
-> <p>- Walter White</p>
+> <p>- Mike Ehrmantraut</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
