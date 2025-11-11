@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I hide in plain sight, same as you.
+> I do not believe fear to be an effective motivator. I want investment. For now, I'm simply interested in time frame.
 >
 > <p>- Gustavo Fring</p>
 
