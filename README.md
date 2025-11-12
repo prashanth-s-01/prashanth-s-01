@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Stop acting like such a baby.
+> Tight. Tight. Tight.
 >
-> <p>- Walter White</p>
+> <p>- Tuco Salamanca</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
