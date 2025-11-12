@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Cooking is art. And the shit I cook is the bomb.
+> Did I say you could open your mouth? And, hands off the car!
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Hank Schrader</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
