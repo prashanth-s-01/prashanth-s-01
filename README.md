@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You’re early lucky, you know that? You didn’t have to wait your whole life to do something special.
+> I have spent my whole life scared frightened of things that could happen, might happen, might not happen.
 >
 > <p>- Walter White</p>
 
