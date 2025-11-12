@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Well, technically, chemistry is the study of matter. But I prefer to see it as the study of change.
+> MILFs? What the hell is a MILF?
 >
-> <p>- Walter White</p>
+> <p>- Skyler White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
