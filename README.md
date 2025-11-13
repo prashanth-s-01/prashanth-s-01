@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Just because you shot Jesse James doesn't mean you are Jesse James.
+> Now look buddy, the last thing I want to do is get you in hot water, but some meth monkey had a feeding frenzy in here.
 >
-> <p>- Mike Ehrmantraut</p>
+> <p>- Hank Schrader</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
