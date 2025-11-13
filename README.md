@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Cyber-begging. That's all that is. Just rattling a little tin cup to the entire world.
+> Let's see, how should i put this? I'm in, you're out.
 >
 > <p>- Walter White</p>
 
