@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You have a good rest of your life, kid.
+> What I came to realise is that fear, that's the worst of it. That's the real enemy. So, get up, get out in the real world and you kick that bastard as hard you can right in the teeth.
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
