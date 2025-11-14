@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I'm the guy your boss brought here to show you how it's done.
+> Speak into the mic, bitch.
 >
 > <p>- Jesse Pinkman</p>
 
