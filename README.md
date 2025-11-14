@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Put me on your magical boat, man, and sail me down your chocolaty river of meth!
+> If you believe that there’s a hell, we’re pretty much already going there.
 >
-> <p>- Badger</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
