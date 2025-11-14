@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You can never trust a drug addict.
+> Put me on your magical boat, man, and sail me down your chocolaty river of meth!
 >
-> <p>- Gustavo Fring</p>
+> <p>- Badger</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
