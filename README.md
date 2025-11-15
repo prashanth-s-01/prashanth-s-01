@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Moral of the story is: I chose a half measure when I should have gone all the way. I'll never make that mistake again. No more half measures, Walter.
+> I have done this long enough to know that there are two kinds of heists: Those where the guys get away with it and those that leave witnesses.
 >
 > <p>- Mike Ehrmantraut</p>
 
