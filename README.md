@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I have done this long enough to know that there are two kinds of heists: Those where the guys get away with it and those that leave witnesses.
+> You won, Walter. You got the job. Do yourself a favor and learn to take yes for an answer.
 >
 > <p>- Mike Ehrmantraut</p>
 
