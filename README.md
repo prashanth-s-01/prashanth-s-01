@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You have a good rest of your life, kid.
+> I'm the guy your boss brought here to show you how it's done.
 >
 > <p>- Jesse Pinkman</p>
 
