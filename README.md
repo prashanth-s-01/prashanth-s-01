@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You won, Walter. You got the job. Do yourself a favor and learn to take yes for an answer.
+> You know how they say it's been a pleasure'? Well... it hasn't.
 >
 > <p>- Mike Ehrmantraut</p>
 
