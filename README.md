@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I am the man that I am son, and there's plenty that I would change about that but, here we are and this is just what it is.
+> If you believe that there’s a hell, we’re pretty much already going there.
 >
 > <p>- Walter White</p>
 
