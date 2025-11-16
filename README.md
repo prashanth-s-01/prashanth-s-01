@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You know, I have never seen anybody work so hard not to get 5 million dollars.
+> If you’re committed enough, you can make any story work.
 >
-> <p>- Mike Ehrmantraut</p>
+> <p>- Saul Goodman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
