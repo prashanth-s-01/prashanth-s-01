@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> MILFs? What the hell is a MILF?
+> All I can do is wait... for the cancer to come back.
 >
 > <p>- Skyler White</p>
 
