@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> What I came to realise is that fear, that's the worst of it. That's the real enemy. So, get up, get out in the real world and you kick that bastard as hard you can right in the teeth.
+> You do seem to have a little “shit creek” action going… You know, FYI, you can buy a paddle.
 >
-> <p>- Walter White</p>
+> <p>- Saul Goodman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
