@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I will put you under the jail.
+> My name is ASAC Schrader, and you can go f*ck yourself.
 >
 > <p>- Hank Schrader</p>
 
