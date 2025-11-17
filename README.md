@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I'm the guy your boss brought here to show you how it's done.
+> My name is Skyler White yo. My husband is Walter White... yo.
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Skyler White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
