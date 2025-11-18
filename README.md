@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Someone has to protect this family from the man who protects this family.
+> I want my kids back. I want my life back. Please tell me – How much is enough? How big does this pile have to be?
 >
 > <p>- Skyler White</p>
 
