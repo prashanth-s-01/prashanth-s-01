@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> One of these days when you come up here, I'll be dead.
+> "Cap'n Cook?" That's not you? Like I said, no one is looking for you.
 >
 > <p>- Walter White</p>
 
