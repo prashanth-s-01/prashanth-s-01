@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Let's just say, I know a guy who knows a guy, who knows another guy
+> I once told a woman I was Kevin Costner and it worked because I believed it.
 >
 > <p>- Saul Goodman</p>
 
