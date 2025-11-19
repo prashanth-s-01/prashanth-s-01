@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> "Cap'n Cook?" That's not you? Like I said, no one is looking for you.
+> Chick's got an ass like an onion, makes me wanna cry.
 >
-> <p>- Walter White</p>
+> <p>- Hank Schrader</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
