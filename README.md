@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You little bastard.
+> All I can do is wait... for the cancer to come back.
 >
-> <p>- Walter White</p>
+> <p>- Skyler White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
