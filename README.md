@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I have lived under the threat of death for a year now, and because of that, I've made peace with it.
+> Shut the f*ck up and let me die in peace.
 >
-> <p>- Walter White</p>
+> <p>- Mike Ehrmantraut</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
