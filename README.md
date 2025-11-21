@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> May his death satisfy you.
+> My friends, I promise you that together, we will prosper.
 >
 > <p>- Gustavo Fring</p>
 
