@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Never give up control. Live life on your own terms.
+> Cyber-begging. That's all that is. Just rattling a little tin cup to the entire world.
 >
 > <p>- Walter White</p>
 
