@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I'm a criminal, yo.
+> Speak into the mic, bitch.
 >
 > <p>- Jesse Pinkman</p>
 
