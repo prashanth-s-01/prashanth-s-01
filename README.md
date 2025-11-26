@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Send him to Belize? I'll send YOU to Belize.
+> It can be done exactly how I want it. The only question is: Are you the man to do it? Figure it out. That's what I'm paying you for.
 >
 > <p>- Walter White</p>
 
