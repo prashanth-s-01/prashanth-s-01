@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I am awake!
+> Fear is the real enemy.
 >
 > <p>- Walter White</p>
 
