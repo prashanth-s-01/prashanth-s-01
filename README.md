@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You won, Walter. You got the job. Do yourself a favor and learn to take yes for an answer.
+> Let's just say, I know a guy who knows a guy, who knows another guy
 >
-> <p>- Mike Ehrmantraut</p>
+> <p>- Saul Goodman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
