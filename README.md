@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Chick's got an ass like an onion, makes me wanna cry.
+> My name is Skyler White yo. My husband is Walter White... yo.
 >
-> <p>- Hank Schrader</p>
+> <p>- Skyler White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
