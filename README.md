@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Buzz buzz buzz
+> The whole minimalist thing never blew my hair back, but hey.
 >
-> <p>- The fly</p>
+> <p>- Saul Goodman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
