@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Shut the f*ck up and let me die in peace.
+> My name is ASAC Schrader, and you can go f*ck yourself.
 >
-> <p>- Mike Ehrmantraut</p>
+> <p>- Hank Schrader</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
