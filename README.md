@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You know how they say it's been a pleasure'? Well... it hasn't.
+> My friends, I promise you that together, we will prosper.
 >
-> <p>- Mike Ehrmantraut</p>
+> <p>- Gustavo Fring</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
