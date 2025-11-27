@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> My name is ASAC Schrader, and you can go f*ck yourself.
+> You know how they say it's been a pleasure'? Well... it hasn't.
 >
-> <p>- Hank Schrader</p>
+> <p>- Mike Ehrmantraut</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
