@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> "Cap'n Cook?" That's not you? Like I said, no one is looking for you.
+> Name one thing in this world that is non negotiable.
 >
 > <p>- Walter White</p>
 
