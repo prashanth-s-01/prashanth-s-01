@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Jesse, we need to cook!
+> I could have saved her.
 >
 > <p>- Walter White</p>
 
