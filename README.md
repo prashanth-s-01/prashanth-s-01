@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Bitch!
+> La familia es todo.
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Tio Salamanca</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
