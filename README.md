@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Cyber-begging. That's all that is. Just rattling a little tin cup to the entire world.
+> The Universe is Random. Not Inevitable. It's simple Chaos.
 >
 > <p>- Walter White</p>
 
