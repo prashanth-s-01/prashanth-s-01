@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You are a time bomb, tick-tick-ticking. And I have no intention of being around for the boom.
+> You know how they say it's been a pleasure'? Well... it hasn't.
 >
 > <p>- Mike Ehrmantraut</p>
 
