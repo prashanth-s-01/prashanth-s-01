@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You're my free pass... bitch!
+> Jesse, you asked me if I was in the meth business or the money business.. Neither. I'm in the empire business.
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
