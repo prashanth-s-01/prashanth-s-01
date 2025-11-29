@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Mr White, he's the devil. You know, he is... he is smarter than you, he is luckier than you. Whatever... whatever you think is supposed to happen... I'm telling you the exact reverse opposite of that is gonna happen, okay?
+> Smoking marijuana, eating cheetos, and masturbating do not constitute plans in my book.
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
