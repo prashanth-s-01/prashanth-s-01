@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> The Universe is Random. Not Inevitable. It's simple Chaos.
+> No more prolonging the inevitable.
 >
 > <p>- Walter White</p>
 
