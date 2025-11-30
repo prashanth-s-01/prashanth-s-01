@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Alright, I've got the talking pillow now... Okay?
+> I am not in danger, Skyler. I AM the danger!
 >
 > <p>- Walter White</p>
 
