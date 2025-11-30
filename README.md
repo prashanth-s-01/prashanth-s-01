@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Stay out of my territory.
+> Alright, I've got the talking pillow now... Okay?
 >
 > <p>- Walter White</p>
 
