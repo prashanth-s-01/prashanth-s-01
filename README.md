@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You are a time bomb, tick-tick-ticking. And I have no intention of being around for the boom.
+> I have done this long enough to know that there are two kinds of heists: Those where the guys get away with it and those that leave witnesses.
 >
 > <p>- Mike Ehrmantraut</p>
 
