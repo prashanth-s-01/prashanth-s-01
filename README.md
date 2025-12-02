@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Say the words! Say YOU want this! Nothing happens until I hear you say it.
+> It can be done exactly how I want it. The only question is: Are you the man to do it? Figure it out. That's what I'm paying you for.
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
