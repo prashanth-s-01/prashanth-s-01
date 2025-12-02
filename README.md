@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Sometimes it just feels better not to talk. At All. About Anything. To Anyone.
+> Don't you know me by now?
 >
 > <p>- Walter White</p>
 
