@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You're the smartest guy I ever met, and you're too stupid to see he made up his mind 10 minutes ago.
+> Say the words! Say YOU want this! Nothing happens until I hear you say it.
 >
-> <p>- Hank Schrader</p>
+> <p>- Jesse Pinkman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
