@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You’re early lucky, you know that? You didn’t have to wait your whole life to do something special.
+> Today is the first day of the rest of your life.
 >
 > <p>- Walter White</p>
 
