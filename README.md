@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Did I say you could open your mouth? And, hands off the car!
+> Never give up control. Live life on your own terms.
 >
-> <p>- Hank Schrader</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
