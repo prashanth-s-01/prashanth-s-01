@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You're never too old for balloons.
+> Buzz buzz buzz
 >
-> <p>- Mike Ehrmantraut</p>
+> <p>- The fly</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
