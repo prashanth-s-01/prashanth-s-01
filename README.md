@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Muscle memory. Happens all the time. Years of training, your body acted faster than your brain
+> You either run from things, or you face them, Mr. White.
 >
-> <p>- Marie Schrader</p>
+> <p>- Jesse Pinkman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
