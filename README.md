@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Stop acting like such a baby.
+> One of these days when you come up here, I'll be dead.
 >
 > <p>- Walter White</p>
 
