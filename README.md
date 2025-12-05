@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Seriously? "Hello Kitty"?
+> Cooking is art. And the shit I cook is the bomb.
 >
 > <p>- Jesse Pinkman</p>
 
