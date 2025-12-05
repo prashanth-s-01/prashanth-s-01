@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I am the man that I am son, and there's plenty that I would change about that but, here we are and this is just what it is.
+> Just so you know, this isn't personal.
 >
-> <p>- Walter White</p>
+> <p>- Todd</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
