@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I am speaking to my family now. Skyler, you are the love of my life. I hope you know that.
+> I did it for me. I liked it. I was good at it. And I was really... I was alive.
 >
 > <p>- Walter White</p>
 
