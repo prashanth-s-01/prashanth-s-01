@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Scientists love lasers.
+> Congratulations, you’ve just left your family a second-hand Subaru.
 >
 > <p>- Saul Goodman</p>
 
