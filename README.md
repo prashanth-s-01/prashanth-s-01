@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Just because you shot Jesse James doesn't mean you are Jesse James.
+> You know, I have never seen anybody work so hard not to get 5 million dollars.
 >
 > <p>- Mike Ehrmantraut</p>
 
