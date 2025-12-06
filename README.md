@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Congratulations, you’ve just left your family a second-hand Subaru.
+> I will kill your wife, I will kill your son, I will kill your infant daughter.
 >
-> <p>- Saul Goodman</p>
+> <p>- Gustavo Fring</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
