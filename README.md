@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Keys, scumbag. It's the universal symbol for keys.
+> You won, Walter. You got the job. Do yourself a favor and learn to take yes for an answer.
 >
 > <p>- Mike Ehrmantraut</p>
 
