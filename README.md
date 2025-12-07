@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Fire in the hole, bitch!
+> So you do have a plan? Yeah, Mr. White! Yeah, science!
 >
 > <p>- Jesse Pinkman</p>
 
