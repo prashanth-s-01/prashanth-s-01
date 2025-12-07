@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Clearly, his taste in women is the same as his taste in lawyers.
+> I did it for the chemistry.
 >
-> <p>- Saul Goodman</p>
+> <p>- Gale Boetticher</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
