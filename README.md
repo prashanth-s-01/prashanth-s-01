@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> F*ck you! And your eyebrows!
+> Find what you love and let it kill you.
 >
 > <p>- Walter White</p>
 
