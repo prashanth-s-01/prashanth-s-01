@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> To all law enforcement entities, this is not an admission of guilt.
+> You know how they say it's been a pleasure'? Well... it hasn't.
 >
-> <p>- Walter White</p>
+> <p>- Mike Ehrmantraut</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
