@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Bitch!
+> Then why don't you just fucking die, already?
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Walter White Jr</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
