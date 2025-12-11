@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> To all law enforcement entities, this is not an admission of guilt.
+> We tried to poison you. We tried to poison you because you are an insane, degenerate piece of filth and you deserve to die.
 >
 > <p>- Walter White</p>
 
