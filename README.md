@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> If I ever get anal polyps, I'll know what to name them.
+> Don't drink and drive but if you do, call me.
 >
 > <p>- Saul Goodman</p>
 
