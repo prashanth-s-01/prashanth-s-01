@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> The whole minimalist thing never blew my hair back, but hey.
+> Now, hey, remember, not all learning comes out of books.
 >
-> <p>- Saul Goodman</p>
+> <p>- Jesse Pinkman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
