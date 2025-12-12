@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Find what you love and let it kill you.
+> To all law enforcement entities, this is not an admission of guilt.
 >
 > <p>- Walter White</p>
 
