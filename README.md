@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I want my kids back. I want my life back. Please tell me – How much is enough? How big does this pile have to be?
+> We tried to poison you. We tried to poison you because you are an insane, degenerate piece of filth and you deserve to die.
 >
-> <p>- Skyler White</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
