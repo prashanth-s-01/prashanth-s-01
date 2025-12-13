@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You know, I have never seen anybody work so hard not to get 5 million dollars.
+> If you don’t know who I am, then maybe your best course would be to tread lightly.
 >
-> <p>- Mike Ehrmantraut</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
