@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Congratulations, you’ve just left your family a second-hand Subaru.
+> You do seem to have a little “shit creek” action going… You know, FYI, you can buy a paddle.
 >
 > <p>- Saul Goodman</p>
 
