@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Now look buddy, the last thing I want to do is get you in hot water, but some meth monkey had a feeding frenzy in here.
+> You know, I have never seen anybody work so hard not to get 5 million dollars.
 >
-> <p>- Hank Schrader</p>
+> <p>- Mike Ehrmantraut</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
