@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I told you, Skyler, I warned you for a solid year: you cross me, and there will be consequences.
+> I did it for the chemistry.
 >
-> <p>- Walter White</p>
+> <p>- Gale Boetticher</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
