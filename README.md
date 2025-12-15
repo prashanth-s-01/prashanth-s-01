@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Get busy living or get busy dying.
+> If that’s true, if you don’t know who I am, then maybe your best course… would be to tread lightly.
 >
-> <p>- Stephen King</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
