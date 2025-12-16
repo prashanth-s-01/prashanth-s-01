@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> It's always darkest just before the dawn.
+> It’s like Scarface had sex with Mr. Rogers or something.
 >
 > <p>- Hank Schrader</p>
 
