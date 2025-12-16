@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I'm the guy your boss brought here to show you how it's done.
+> Now look buddy, the last thing I want to do is get you in hot water, but some meth monkey had a feeding frenzy in here.
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Hank Schrader</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
