@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Look, I saved your life, Jesse. Are you gonna save mine?
+> Because I say so.
 >
 > <p>- Walter White</p>
 
