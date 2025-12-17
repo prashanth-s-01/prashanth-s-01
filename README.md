@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> The thing is, if you just do stuff and nothing happens, what's it all mean? What's the point? Oh right, this whole thing is about self-acceptance.
+> You are not the guy. You're not capable of being the guy. I had a guy but now I don't. You are not the guy.
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Mike Ehrmantraut</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
