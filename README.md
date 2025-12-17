@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You are not the guy. You're not capable of being the guy. I had a guy but now I don't. You are not the guy.
+> You have a good rest of your life, kid.
 >
-> <p>- Mike Ehrmantraut</p>
+> <p>- Jesse Pinkman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
