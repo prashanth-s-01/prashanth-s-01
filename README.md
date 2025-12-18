@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Cooking is art. And the shit I cook is the bomb.
+> Yo, Mr. White. I can't even pronounce half this shit!
 >
 > <p>- Jesse Pinkman</p>
 
