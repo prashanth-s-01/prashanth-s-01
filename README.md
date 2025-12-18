@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I do not believe fear to be an effective motivator. I want investment. For now, I'm simply interested in time frame.
+> I am the man that I am son, and there's plenty that I would change about that but, here we are and this is just what it is.
 >
-> <p>- Gustavo Fring</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
