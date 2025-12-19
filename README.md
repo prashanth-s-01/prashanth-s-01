@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Being the best at something is a very rare thing. You don't just toss something like that away. And what, you wanna squander that potential?
+> Fifty years I spent like that. Finding myself awake at three in the morning. But you know what? Ever since my diagnosis, I sleep just fine.
 >
 > <p>- Walter White</p>
 
