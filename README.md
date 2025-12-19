@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Don't you know me by now?
+> Now look buddy, the last thing I want to do is get you in hot water, but some meth monkey had a feeding frenzy in here.
 >
-> <p>- Walter White</p>
+> <p>- Hank Schrader</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
