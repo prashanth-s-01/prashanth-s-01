@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Do what you're gonna do.
+> Free food always tastes good. Free drinks even better.
 >
 > <p>- Hank Schrader</p>
 
