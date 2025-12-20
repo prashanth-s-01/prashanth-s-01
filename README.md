@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Muscle memory. Happens all the time. Years of training, your body acted faster than your brain
+> Get busy living or get busy dying.
 >
-> <p>- Marie Schrader</p>
+> <p>- Stephen King</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
