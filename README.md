@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You do seem to have a little “shit creek” action going… You know, FYI, you can buy a paddle.
+> Scientists love lasers.
 >
 > <p>- Saul Goodman</p>
 
