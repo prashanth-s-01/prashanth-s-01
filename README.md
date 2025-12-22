@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Send him to Belize? I'll send YOU to Belize.
+> You little bastard.
 >
 > <p>- Walter White</p>
 
