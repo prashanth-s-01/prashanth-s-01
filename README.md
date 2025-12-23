@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Put me on your magical boat, man, and sail me down your chocolaty river of meth!
+> You’re early lucky, you know that? You didn’t have to wait your whole life to do something special.
 >
-> <p>- Badger</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
