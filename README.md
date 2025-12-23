@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Did I say you could open your mouth? And, hands off the car!
+> Funny how words can be so open to interpretation.
 >
-> <p>- Hank Schrader</p>
+> <p>- Mike Ehrmantraut</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
