@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Now look buddy, the last thing I want to do is get you in hot water, but some meth monkey had a feeding frenzy in here.
+> You need to stop focusing on the darkness behind you. The past is the past. Nothing can change what we’ve done.
 >
-> <p>- Hank Schrader</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
