@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Just because you shot Jesse James doesn't mean you are Jesse James.
+> Alright, I've got the talking pillow now... Okay?
 >
-> <p>- Mike Ehrmantraut</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
