@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Heart wants what the heart wants, right?
+> If you don’t know who I am, then maybe your best course would be to tread lightly.
 >
-> <p>- Uncle Jack</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
