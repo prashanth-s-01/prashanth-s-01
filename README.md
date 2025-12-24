@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Better call Saul!
+> If you’re committed enough, you can make any story work.
 >
 > <p>- Saul Goodman</p>
 
