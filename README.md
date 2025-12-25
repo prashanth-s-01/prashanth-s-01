@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Do you know how much I make a year? I mean, even if I told you, you wouldn't believe it.
+> The thing is, if you just do stuff and nothing happens, what's it all mean? What's the point? Oh right, this whole thing is about self-acceptance.
 >
-> <p>- Walter White</p>
+> <p>- Jesse Pinkman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
