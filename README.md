@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I'm not in the meth business. I'm in the empire business.
+> Being the best at something is a very rare thing. You don't just toss something like that away. And what, you wanna squander that potential?
 >
 > <p>- Walter White</p>
 
