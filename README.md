@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Today is the first day of the rest of your life.
+> If you don’t know who I am, then maybe your best course would be to tread lightly.
 >
 > <p>- Walter White</p>
 
