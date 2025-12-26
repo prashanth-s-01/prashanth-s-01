@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Did you know that there's an acceptable level of rat turds that can go into candy bars? It's the government, jack. Even government doesn't care that much about quality. You know what is okay to put in hot dogs? Huh? Pig lips and *beep* But I say, hey, have at it bitches 'cause I love hot dogs.
+> You won, Walter. You got the job. Do yourself a favor and learn to take yes for an answer.
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Mike Ehrmantraut</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
