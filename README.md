@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You all know exactly who I am. Say my name.
+> I watched Jane die. I was there. And I watched her die.
 >
 > <p>- Walter White</p>
 
