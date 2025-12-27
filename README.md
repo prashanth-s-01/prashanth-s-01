@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Sitting around, smoking marijuana, eating Cheetos and masturbating do not constitute ‘plans.’
+> Send him to Belize? I'll send YOU to Belize.
 >
 > <p>- Walter White</p>
 
