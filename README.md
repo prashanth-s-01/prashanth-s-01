@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Keys, scumbag. It's the universal symbol for keys.
+> Say the words! Say YOU want this! Nothing happens until I hear you say it.
 >
-> <p>- Mike Ehrmantraut</p>
+> <p>- Jesse Pinkman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
