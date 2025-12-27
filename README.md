@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> F*ck you! And your eyebrows!
+> Name one thing in this world that is non negotiable.
 >
 > <p>- Walter White</p>
 
