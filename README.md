@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Did I say you could open your mouth? And, hands off the car!
+> My name is ASAC Schrader, and you can go f*ck yourself.
 >
 > <p>- Hank Schrader</p>
 
