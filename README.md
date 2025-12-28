@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> It’s like Scarface had sex with Mr. Rogers or something.
+> I told you, Skyler, I warned you for a solid year: you cross me, and there will be consequences.
 >
-> <p>- Hank Schrader</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
