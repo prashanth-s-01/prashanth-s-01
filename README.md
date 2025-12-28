@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Say the words! Say YOU want this! Nothing happens until I hear you say it.
+> Coin flip is sacred.
 >
 > <p>- Jesse Pinkman</p>
 
