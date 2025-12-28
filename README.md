@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Coin flip is sacred.
+> I'm a criminal, yo.
 >
 > <p>- Jesse Pinkman</p>
 
