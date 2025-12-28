@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I do not believe fear to be an effective motivator. I want investment. For now, I'm simply interested in time frame.
+> Say the words! Say YOU want this! Nothing happens until I hear you say it.
 >
-> <p>- Gustavo Fring</p>
+> <p>- Jesse Pinkman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
