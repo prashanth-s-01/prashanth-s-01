@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> One of these days when you come up here, I'll be dead.
+> He handles the businesses, and I handle him.
 >
 > <p>- Walter White</p>
 
