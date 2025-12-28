@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> He handles the businesses, and I handle him.
+> To all law enforcement entities, this is not an admission of guilt.
 >
 > <p>- Walter White</p>
 
