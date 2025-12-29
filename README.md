@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Better call Saul!
+> I will put you under the jail.
 >
-> <p>- Saul Goodman</p>
+> <p>- Hank Schrader</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
