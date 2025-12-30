@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You add plus a douchebag to a minus douchebag and you get, Like, Zero Douchebags.
+> Someone has to protect this family from the man who protects this family.
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Skyler White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
