@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You are not the guy. You're not capable of being the guy. I had a guy but now I don't. You are not the guy.
+> I have done this long enough to know that there are two kinds of heists: Those where the guys get away with it and those that leave witnesses.
 >
 > <p>- Mike Ehrmantraut</p>
 
