@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I hide in plain sight, same as you.
+> You do seem to have a little “shit creek” action going… You know, FYI, you can buy a paddle.
 >
-> <p>- Gustavo Fring</p>
+> <p>- Saul Goodman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
