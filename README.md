@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Now look buddy, the last thing I want to do is get you in hot water, but some meth monkey had a feeding frenzy in here.
+> It's always darkest just before the dawn.
 >
 > <p>- Hank Schrader</p>
 
