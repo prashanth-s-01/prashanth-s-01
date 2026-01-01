@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> "Cap'n Cook?" That's not you? Like I said, no one is looking for you.
+> Find what you love and let it kill you.
 >
 > <p>- Walter White</p>
 
