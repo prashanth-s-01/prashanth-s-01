@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Jesse, we need to cook!
+> No more prolonging the inevitable.
 >
 > <p>- Walter White</p>
 
