@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I did it for me. I liked it. I was good at it. And... I was really... I was alive.
+> Alright, tell you what. Both of you pull it out your butts right now, or I go grab a flashlight and some pliers and go exploring.
 >
-> <p>- Walter White</p>
+> <p>- Jesse Pinkman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
