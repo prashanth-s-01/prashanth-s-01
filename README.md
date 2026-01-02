@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Just because you shot Jesse James doesn't mean you are Jesse James.
+> You are not the guy. You're not capable of being the guy. I had a guy but now I don't. You are not the guy.
 >
 > <p>- Mike Ehrmantraut</p>
 
