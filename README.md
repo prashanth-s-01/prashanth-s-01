@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> My name is Skyler White yo. My husband is Walter White... yo.
+> Muscle memory. Happens all the time. Years of training, your body acted faster than your brain
 >
-> <p>- Skyler White</p>
+> <p>- Marie Schrader</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
