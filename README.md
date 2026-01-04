@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Seriously? "Hello Kitty"?
+> You add plus a douchebag to a minus douchebag and you get, Like, Zero Douchebags.
 >
 > <p>- Jesse Pinkman</p>
 
