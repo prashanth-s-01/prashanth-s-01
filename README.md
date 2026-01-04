@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I once told a woman I was Kevin Costner and it worked because I believed it.
+> If I ever get anal polyps, I'll know what to name them.
 >
 > <p>- Saul Goodman</p>
 
