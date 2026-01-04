@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Smoking marijuana, eating cheetos, and masturbating do not constitute plans in my book.
+> Cooking is art. And the shit I cook is the bomb.
 >
-> <p>- Walter White</p>
+> <p>- Jesse Pinkman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
