@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Say the words! Say YOU want this! Nothing happens until I hear you say it.
+> Sitting around, smoking marijuana, eating Cheetos and masturbating do not constitute ‘plans.’
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
