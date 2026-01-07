@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I did it for me. I liked it. I was good at it. And... I was really... I was alive.
+> There is gold in the streets just waiting for someone to come and scoop it up.
 >
 > <p>- Walter White</p>
 
