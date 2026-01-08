@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> It can be done exactly how I want it. The only question is: Are you the man to do it? Figure it out. That's what I'm paying you for.
+> Being the best at something is a very rare thing. You don't just toss something like that away. And what, you wanna squander that potential?
 >
 > <p>- Walter White</p>
 
