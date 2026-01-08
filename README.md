@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I did it for the chemistry.
+> Jesse, we need to cook!
 >
-> <p>- Gale Boetticher</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
