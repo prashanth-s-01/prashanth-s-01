@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You either run from things, or you face them, Mr. White.
+> Did you know that there's an acceptable level of rat turds that can go into candy bars? It's the government, jack. Even government doesn't care that much about quality. You know what is okay to put in hot dogs? Huh? Pig lips and *beep* But I say, hey, have at it bitches 'cause I love hot dogs.
 >
 > <p>- Jesse Pinkman</p>
 
