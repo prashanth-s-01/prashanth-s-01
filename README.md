@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Clearly, his taste in women is the same as his taste in lawyers.
+> Never say never
 >
 > <p>- Saul Goodman</p>
 
