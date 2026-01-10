@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Sitting around, smoking marijuana, eating Cheetos and masturbating do not constitute "plans".
+> I did it for me. I liked it. I was good at it. And I was really... I was alive.
 >
 > <p>- Walter White</p>
 
