@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> My name is ASAC Schrader, and you can go f*ck yourself.
+> You're the smartest guy I ever met, and you're too stupid to see he made up his mind 10 minutes ago.
 >
 > <p>- Hank Schrader</p>
 
