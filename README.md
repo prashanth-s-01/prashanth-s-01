@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You all know exactly who I am. Say my name.
+> We're done when I say we're done.
 >
 > <p>- Walter White</p>
 
