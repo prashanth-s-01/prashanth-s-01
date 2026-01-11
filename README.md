@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Do what you're gonna do.
+> My name is ASAC Schrader, and you can go f*ck yourself.
 >
 > <p>- Hank Schrader</p>
 
