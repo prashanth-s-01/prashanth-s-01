@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Scientists love lasers.
+> You two suck at peddling meth.
 >
 > <p>- Saul Goodman</p>
 
