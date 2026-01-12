@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Shut the f*ck up and let me die in peace.
+> Clearly, his taste in women is the same as his taste in lawyers.
 >
-> <p>- Mike Ehrmantraut</p>
+> <p>- Saul Goodman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
