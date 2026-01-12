@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Buzz buzz buzz
+> I have done this long enough to know that there are two kinds of heists: Those where the guys get away with it and those that leave witnesses.
 >
-> <p>- The fly</p>
+> <p>- Mike Ehrmantraut</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
