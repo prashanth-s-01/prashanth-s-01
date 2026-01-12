@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You know how they say it's been a pleasure'? Well... it hasn't.
+> Then why don't you just fucking die, already?
 >
-> <p>- Mike Ehrmantraut</p>
+> <p>- Walter White Jr</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
