@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Clearly, his taste in women is the same as his taste in lawyers.
+> You won, Walter. You got the job. Do yourself a favor and learn to take yes for an answer.
 >
-> <p>- Saul Goodman</p>
+> <p>- Mike Ehrmantraut</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
