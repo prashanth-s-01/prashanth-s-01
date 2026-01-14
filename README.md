@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Alright, I've got the talking pillow now... Okay?
+> Muscle memory. Happens all the time. Years of training, your body acted faster than your brain
 >
-> <p>- Walter White</p>
+> <p>- Marie Schrader</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
