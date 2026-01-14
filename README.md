@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> My name is ASAC Schrader, and you can go f*ck yourself.
+> Heart wants what the heart wants, right?
 >
-> <p>- Hank Schrader</p>
+> <p>- Uncle Jack</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
