@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You know I, I just think, that ah, things have a way of working themselves out.
+> I did it for me. I liked it. I was good at it. And... I was really... I was alive.
 >
 > <p>- Walter White</p>
 
