@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Find what you love and let it kill you.
+> You're never too old for balloons.
 >
-> <p>- Walter White</p>
+> <p>- Mike Ehrmantraut</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
