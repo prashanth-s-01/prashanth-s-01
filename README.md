@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> So you're chasing around a fly and in your world, I'm the idiot?
+> Yo, yo yo, 148-3 to the 3 to the 6 to the 9, representing the ABQ, what up biatch? Leave it at the tone.
 >
 > <p>- Jesse Pinkman</p>
 
