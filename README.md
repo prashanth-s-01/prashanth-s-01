@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You do seem to have a little “shit creek” action going… You know, FYI, you can buy a paddle.
+> This is my own private domicile and I will not be harassed... bitch!
 >
-> <p>- Saul Goodman</p>
+> <p>- Jesse Pinkman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
