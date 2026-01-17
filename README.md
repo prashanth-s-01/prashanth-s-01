@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> We tried to poison you. We tried to poison you because you are an insane, degenerate piece of filth and you deserve to die.
+> Today is the first day of the rest of your life.
 >
 > <p>- Walter White</p>
 
