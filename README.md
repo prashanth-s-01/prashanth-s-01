@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Someone has to protect this family from the man who protects this family.
+> I will kill your wife, I will kill your son, I will kill your infant daughter.
 >
-> <p>- Skyler White</p>
+> <p>- Gustavo Fring</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
