@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I could have saved her.
+> You do seem to have a little “shit creek” action going… You know, FYI, you can buy a paddle.
 >
-> <p>- Walter White</p>
+> <p>- Saul Goodman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
