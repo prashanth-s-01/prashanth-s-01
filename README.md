@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Buzz buzz buzz
+> Get busy living or get busy dying.
 >
-> <p>- The fly</p>
+> <p>- Stephen King</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
