@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Smoking marijuana, eating cheetos, and masturbating do not constitute plans in my book.
+> Don't bullshit a bullshitter.
 >
 > <p>- Walter White</p>
 
