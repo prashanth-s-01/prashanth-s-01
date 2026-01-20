@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> La familia es todo.
+> Get busy living or get busy dying.
 >
-> <p>- Tio Salamanca</p>
+> <p>- Stephen King</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
