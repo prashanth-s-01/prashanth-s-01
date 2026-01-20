@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Ignorance of the law doesn't equate to criminality. It equates to ignorance.
+> So you're chasing around a fly and in your world, I'm the idiot?
 >
-> <p>- Skyler White</p>
+> <p>- Jesse Pinkman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
