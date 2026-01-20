@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> There's no honor among thieves, except for us of course
+> Do what you're gonna do.
 >
-> <p>- Saul Goodman</p>
+> <p>- Hank Schrader</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
