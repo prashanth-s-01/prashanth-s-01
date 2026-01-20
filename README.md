@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You do seem to have a little “shit creek” action going… You know, FYI, you can buy a paddle.
+> I do not believe fear to be an effective motivator. I want investment. For now, I'm simply interested in time frame.
 >
-> <p>- Saul Goodman</p>
+> <p>- Gustavo Fring</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
