@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I do not believe fear to be an effective motivator. I want investment. For now, I'm simply interested in time frame.
+> I'm not a criminal. I'm a criminal lawyer.
 >
-> <p>- Gustavo Fring</p>
+> <p>- Saul Goodman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
