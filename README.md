@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Never say never
+> Let's just say, I know a guy who knows a guy, who knows another guy
 >
 > <p>- Saul Goodman</p>
 
