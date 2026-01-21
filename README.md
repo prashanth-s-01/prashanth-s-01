@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> My name is Skyler White yo. My husband is Walter White... yo.
+> Never say never
 >
-> <p>- Skyler White</p>
+> <p>- Saul Goodman</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
