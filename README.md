@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I’m not saying it’s not bad. It’s bad. But it could be worse.
+> I want my kids back. I want my life back. Please tell me – How much is enough? How big does this pile have to be?
 >
-> <p>- Saul Goodman</p>
+> <p>- Skyler White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
