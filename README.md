@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> So you do have a plan? Yeah, Mr. White! Yeah, science!
+> They're minerals, Marie! Jesus!
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Hank Schrader</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
