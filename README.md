@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> MILFs? What the hell is a MILF?
+> "Cap'n Cook?" That's not you? Like I said, no one is looking for you.
 >
-> <p>- Skyler White</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
