@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> So roll me further bitch!
+> Alright, tell you what. Both of you pull it out your butts right now, or I go grab a flashlight and some pliers and go exploring.
 >
 > <p>- Jesse Pinkman</p>
 
