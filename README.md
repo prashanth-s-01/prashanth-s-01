@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You either run from things, or you face them, Mr. White.
+> Being the best at something is a very rare thing. You don't just toss something like that away. And what, you wanna squander that potential?
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Walter White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
