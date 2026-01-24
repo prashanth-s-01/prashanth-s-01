@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Find what you love and let it kill you.
+> Someone has to protect this family from the man who protects this family.
 >
-> <p>- Walter White</p>
+> <p>- Skyler White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
