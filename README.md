@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> F*ck you! And your eyebrows!
+> Send him to Belize? I'll send YOU to Belize.
 >
 > <p>- Walter White</p>
 
