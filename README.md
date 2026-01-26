@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I have spent my whole life scared frightened of things that could happen, might happen, might not happen.
+> If you don’t know who I am, then maybe your best course would be to tread lightly.
 >
 > <p>- Walter White</p>
 
