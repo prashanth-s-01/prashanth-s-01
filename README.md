@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> He handles the businesses, and I handle him.
+> Sometimes it just feels better not to talk. At All. About Anything. To Anyone.
 >
 > <p>- Walter White</p>
 
