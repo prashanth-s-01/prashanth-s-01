@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Better call Saul!
+> I'm not a criminal. I'm a criminal lawyer.
 >
 > <p>- Saul Goodman</p>
 
