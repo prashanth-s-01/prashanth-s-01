@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Better safe than sorry. That's my motto.
+> Scientists love lasers.
 >
 > <p>- Saul Goodman</p>
 
