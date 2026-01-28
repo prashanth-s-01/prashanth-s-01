@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> What I came to realise is that fear, that's the worst of it. That's the real enemy. So, get up, get out in the real world and you kick that bastard as hard you can right in the teeth.
+> I am the man that I am son, and there's plenty that I would change about that but, here we are and this is just what it is.
 >
 > <p>- Walter White</p>
 
