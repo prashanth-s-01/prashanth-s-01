@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Yeah, bitch! Magnets!
+> Free to cook anytime, anywhere.
 >
 > <p>- Jesse Pinkman</p>
 
