@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Let's see, how should i put this? I'm in, you're out.
+> Do you know how much I make a year? I mean, even if I told you, you wouldn't believe it.
 >
 > <p>- Walter White</p>
 
