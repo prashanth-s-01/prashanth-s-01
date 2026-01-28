@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> A guy opens his door and gets shot and you think that of me? No. I am the one who knocks!
+> Let's see, how should i put this? I'm in, you're out.
 >
 > <p>- Walter White</p>
 
