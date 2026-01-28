@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You either run from things, or you face them, Mr. White.
+> Coin flip is sacred.
 >
 > <p>- Jesse Pinkman</p>
 
