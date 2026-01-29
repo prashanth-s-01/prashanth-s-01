@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I told you, Skyler, I warned you for a solid year: you cross me, and there will be consequences.
+> There is gold in the streets just waiting for someone to come and scoop it up.
 >
 > <p>- Walter White</p>
 
