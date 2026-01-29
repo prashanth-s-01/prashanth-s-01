@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I hide in plain sight, same as you.
+> I will kill your wife, I will kill your son, I will kill your infant daughter.
 >
 > <p>- Gustavo Fring</p>
 
