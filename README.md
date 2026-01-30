@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> I hide in plain sight, same as you.
+> Sometimes the forbidden fruit tastes the sweetest.
 >
-> <p>- Gustavo Fring</p>
+> <p>- Hank Schrader</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
