@@ -120,7 +120,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Alright, I've got the talking pillow now... Okay?
+> You little bastard.
 >
 > <p>- Walter White</p>
 
