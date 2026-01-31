@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Fire in the hole, bitch!
+> I will kill your wife, I will kill your son, I will kill your infant daughter.
 >
-> <p>- Jesse Pinkman</p>
+> <p>- Gustavo Fring</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
