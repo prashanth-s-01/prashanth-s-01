@@ -120,9 +120,9 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> We tried to poison you. We tried to poison you because you are an insane, degenerate piece of filth and you deserve to die.
+> My name is Skyler White yo. My husband is Walter White... yo.
 >
-> <p>- Walter White</p>
+> <p>- Skyler White</p>
 
 _Quote requested from [Breaking Bad API](https://breakingbadquotes.xyz/)_
 
