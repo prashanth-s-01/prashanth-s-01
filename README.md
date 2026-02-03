@@ -101,7 +101,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> Now, hey, remember, not all learning comes out of books.
+> Speak into the mic, bitch.
 >
 > <p>- Jesse Pinkman</p>
 
