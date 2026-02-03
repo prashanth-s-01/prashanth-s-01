@@ -101,7 +101,7 @@ I’m Prashanth — a Software Engineer exploring the intersection of AI, system
 
 ## 📣 How about a Breaking Bad quote before you go?
 
-> You need to stop focusing on the darkness behind you. The past is the past. Nothing can change what we’ve done.
+> Today is the first day of the rest of your life.
 >
 > <p>- Walter White</p>
 
